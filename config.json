@@ -1,0 +1,11 @@
+﻿{
+  "Azure": {
+    "PersonalAccessToken": ""
+  },
+  "IncludeWaitingForAuthor": false,
+  "IncludeRejected": false,
+  "IncludeDraft": false,
+  "ReminderFrequencyInMinutes": 20,
+  "FetchFrequencyInSeconds": 120,
+  "ClearWaitingForAuthorVotes": "Never" // Never, AllCommentsResolved, PullRequestUpdated
+}
